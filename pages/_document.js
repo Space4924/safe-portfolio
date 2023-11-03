@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
 import { config } from '../theme.config'
+import { content } from '@/tailwind.config'
 
 class MyDocument extends Document {
   render() {
@@ -13,7 +14,7 @@ class MyDocument extends Document {
           <link rel="manifest" href="/favicon/site.webmanifest" />
           <link rel="alternate" type="application/rss+xml" href="/feed/blog/feed.xml" />
         </Head>
-        <body className="scrollbar-thin scrollbar-thumb-omega-500 hover:scrollbar-thumb-omega-600">
+        <body  className="scrollbar-thin scrollbar-thumb-omega-500 hover:scrollbar-thumb-omega-600">
           <Main />
           <NextScript />
         </body>

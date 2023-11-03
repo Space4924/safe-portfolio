@@ -1,73 +1,72 @@
 ---
 layout: Post
-title: Crypto website development for DeFi X
-description: The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.
+title: Trading Sathi
+description: Trading Sathi for likeminded people who want to explore new Feilds.
 date: '2022-11-22'
 tags:
-  - next-js
-  - stripe
-  - shopify
+  - React-Native
+  - Tailwind
+  - Node-Js
 logo:
   src: /icons/logo-3.svg
   alt: Company X
 images:
-  - src: /projects/project-3.png
+  - src: /projects/trading-sathi_pc.png
     alt: Control Panel Dashboard
     overlay:
-      src: /projects/project-3-mobile.png
+      src: /projects/trading_sathi_app.png
       alt: Control Panel Mobile
-  - src: /projects/project-1.png
+  - src: /projects/trading-sathi-1.png
     alt: Customers Dashboard
-  - src: /projects/project-2.png
+  - src: /projects/trading-sathi-2.png
     alt: Inovice & Payments
-  - src: /projects/project-3.png
+  - src: /projects/trading-sathi-3.png
     alt: Inovice & Payments
-  - src: /projects/project-4.png
-    alt: Inovice & Payments
+ 
 attributes:
   - label: Duration
     value: 3 Weeks
   - label: Role
     value: NodeJS API Server
-  - label: Atmosphere
-    value: Cool
-  - label: Technology
-    value: GRaphQL
+  - label: Backend
+    value: Nodejs
+  - label: Frontend
+    value: React-Native
 ---
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+Discover your favorite trading courses, connect with experienced Sathis, and gain valuable knowledge to enhance your trading skills. Join our thriving community of traders and unlock the potential of trading education with ease and affordability.
 
-### Paragraphs
+### Description
 
-To create paragraphs, use a blank line to separate one or more lines of text like this:
+Explore Sathis' profiles, pay for contact, and gain access to their expertise. Show your interest, connect with knowledgeable Sathis, and unlock valuable trading insights for your success in the market.
 
-First paragraph. I really like using Markdown.
+Connecting traders with similar Interests.
 
-Second paragraph. *Italic*, **bold**, ~~strikethrough~~, Emoji 😂 ⛺, and `monospace`. I think I'll use it to format all of my documents from now on.
+Your Gateway to Affordable Trading Education. Join our Vibrant Community of Like-Minded Traders Today!.
 
 ---
 
-### Headings
+### About Trading Sathi
 
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (`<h3>`), use three number signs (e.g., `### My Header`).
+Welcome to Trading Sathi, an innovative platform that connects traders with similar course interests, fostering a vibrant community of knowledge sharing. Our platform empowers traders to connect, lea...
 
-# Heading level 1
+### Our Role as a Connecting Platform
 
-## Heading level 2
+#### Sharing of Information
 
-### Heading level 3
+#### Users' Responsibilities
 
-#### Heading level 4
+#### Information We Collect : Personal Information:
 
-##### Heading level 5
+#### Information We Collect : Course Information:?
 
-###### Heading level 6
+### Use of Information : Connecting Users
 
 ---
 
 ### Code-Block
 
-The Markdown syntax allows you to create code blocks by indenting lines by four spaces or one tab. If you find that inconvenient, try using fenced code blocks. To do that, you’ll use three backticks (```) on the lines before and after the code block. The best part? You don’t have to indent any lines!
+By using Trading Sathi, users acknowledge and agree that the platform's purpose is to connect traders and facilitate knowledge-sharing, and the platform is not responsible for any illegal actions or violations committed by its users outside of the platform.
 
   ```js  {4-7} showLineNumbers
   import contact from './contact.js';
@@ -87,7 +86,7 @@ The Markdown syntax allows you to create code blocks by indenting lines by four 
   });
   ```
 
-Code blocks can also be used inside the `<Wide />` component.
+Code 
 
 <Wide>
 
@@ -143,12 +142,12 @@ This will render the Newsletter component:
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
 
 ```md
-![This is the caption](/photos/blog-performance.jpg "Team meeting")
+![This is the caption](/projects/trading-sathi_pc.png "Team meeting")
 ```
 This image is wrapper inside the `<Wide />` component.
 
 <Wide>
-  ![This is the caption](/photos/blog-performance.jpg "Team meeting")
+  ![This is the caption](/projects/trading-sathi_pc.png "Team meeting")
 </Wide>
 
 ### Linked Images

@@ -15,30 +15,14 @@ import { SlUser, SlBriefcase, SlEnvolope, SlTrophy } from 'react-icons/sl'
  */
 
 export const menu = [
+ 
   {
-    name: 'Home',
-    slug: '/',
+    name: 'Home ',
+    slug: '/index-3',
     Icon: TfiHome,
     number: 1,
   },
-  {
-    name: 'Home (2)',
-    slug: '/index-2',
-    Icon: TfiHome,
-    number: 2,
-  },
-  {
-    name: 'Home (3)',
-    slug: '/index-3',
-    Icon: TfiHome,
-    number: 3,
-  },
-  {
-    name: 'Home (4)',
-    slug: '/index-4',
-    Icon: TfiHome,
-    number: 4,
-  },
+  
   {
     name: 'About',
     slug: '/about',
@@ -49,11 +33,11 @@ export const menu = [
     slug: '/services',
     Icon: SlBriefcase,
   },
-  {
-    name: 'Articles',
-    slug: '/blog',
-    Icon: TfiPencilAlt,
-  },
+  // {
+  //   name: 'Articles',
+  //   slug: '/blog',
+  //   Icon: TfiPencilAlt,
+  // },
   {
     name: 'Projects',
     slug: '/projects',
@@ -78,12 +62,12 @@ export const social = [
   },
   {
     name: 'Instagram',
-    url: 'https://www.instagram.com/',
+    url: 'https://www.instagram.com/bhoopendra2512/',
     Icon: IoLogoInstagram,
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
+    url: 'https://www.linkedin.com/in/bhoopendra-singh-84a409214/',
     Icon: IoLogoLinkedin,
   },
 ]
@@ -132,16 +116,16 @@ export const mdxConfig = {
 
 export const siteMetaData = {
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'http://localhost:3000',
-  authorName: 'Carl Hanson',
-  siteName: 'Carl Hanson',
-  defaultTitle: 'Carl Hanson Personal Site',
-  titleTemplate: 'Carl Hanson | %s',
+  authorName: 'Bhoopendra Singh',
+  siteName: 'Bhoopendra Singh',
+  defaultTitle: 'Bhoopendra Personal Site',
+  titleTemplate: 'Bhoopendra Singh / %s',
   description: 'A short description goes here.',
   email: 'hello@example.com',
-  locale: 'en_US',
+  locale: 'INDIA',
   twitter: {
-    handle: '@handle',
-    site: '@site',
+    handle: '@bhoopendra',
+    site: '@bhoopendra',
     cardType: 'summary_large_image',
   },
 }

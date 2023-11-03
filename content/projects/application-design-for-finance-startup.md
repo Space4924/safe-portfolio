@@ -11,10 +11,10 @@ logo:
   src: /icons/logo-4.svg
   alt: Company X
 images:
-  - src: /projects/project-4.png
+  - src: /projects/ondc_pc.jpg
     alt: image alt text
     overlay:
-      src: /projects/project-4-mobile.png
+      src: /projects/ondc_app.jpg
       alt: overlay image
   - src: /projects/project-4.png
     alt: image alt text
@@ -25,21 +25,23 @@ attributes:
     value: Accessibility
 ---
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+Open Network for Digital Commerce (ONDC) is an initiative aiming at promoting open networks for all aspects of exchange of goods and services over digital or electronic networks. ONDC is to be based on open-sourced methodology, using open specifications and open network protocols independent of any specific platform.
 
-### Paragraphs
+### Description
 
-To create paragraphs, use a blank line to separate one or more lines of text like this:
+The foundations of ONDC are to be open protocols for all aspects in the entire chain of activities in exchange of goods and services, similar to hypertext transfer protocol for information exchange over internet, simple mail transfer protocol for exchange of emails and unified payments interface for payments.
 
-First paragraph. I really like using Markdown.
+Press Information Bureau
+Government of India
+Ministry of Commerce & Industry
 
-Second paragraph. *Italic*, **bold**, ~~strikethrough~~, Emoji 😂 ⛺, and `monospace`. I think I'll use it to format all of my documents from now on.
+These open protocols would be used for establishing public digital infrastructure in the form of open registries and open network gateways to enable exchange of information between providers and consumers. Providers and consumers would be able to use any compatible application of their choice for exchange of information and carrying out transactions over ONDC.
 
 ---
 
-### Headings
+### About Our Project
 
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (`<h3>`), use three number signs (e.g., `### My Header`).
+Thus, ONDC goes beyond the current platform-centric digital commerce model where the buyer and seller have to use the same platform or application to be digitally visible and do a business transaction.
 
 # Heading level 1
 
@@ -57,7 +59,7 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
 
 ### Code-Block
 
-The Markdown syntax allows you to create code blocks by indenting lines by four spaces or one tab. If you find that inconvenient, try using fenced code blocks. To do that, you’ll use three backticks (```) on the lines before and after the code block. The best part? You don’t have to indent any lines!
+ONDC is expected to make e-Commerce more inclusive and accessible for consumers. Consumers can potentially discover any seller, product or service by using any compatible application or platform, thus increasing freedom of choice for consumers. It will enable the consumers to match demand with the nearest available supply. This would also give consumers the liberty to choose their preferred local businesses. Thus, ONDC would standardize operations, promote inclusion of local suppliers, drive efficiencies in logistics and lead to enhancement of value for consumers.
 
   ```js  {4-7} showLineNumbers
   import contact from './contact.js';

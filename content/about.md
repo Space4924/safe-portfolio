@@ -8,22 +8,22 @@ seo:
 
 
 ---personal_info
-name: CARL HANSON
+name: BHOOPENDRA SINGH
 images:
-  - src: /about.jpg
+  - src: /bhoop4.png
     alt: my image
 ---
 ##### <span>01.</span> About me
 
-Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
+Greetings, I'm Bhoopendra Singh, hailing from Shikohabad, Agra, U.P. I'm presently pursuing my Bachelor's degree at the Indian Institute of Technology Roorkee, Uttarakhand. Alongside my studies, I'm also dedicated to developing my startup and actively working to expand its reach.
 
 ##### <span>02.</span> Interests and Hobbies
 
-Ad Lorem et amet exercitation enim culpa nulla laboris eu eiusmod. Irure fugiat sunt esse consequat consectetur eu laboris voluptate eiusmod dolor. Nisi velit consectetur deserunt esse aliquip esse officia consequat eiusmod voluptate cupidatat id.
+I have a strong passion for exploring new development projects and libraries. I've been immersed in Node.js and React.js for the past two years, and I thoroughly enjoy competitive programming, which I've been engaged in since my first year.
 
 ##### <span>03.</span> Framework Preferences
 
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
+I primarily employ Tailwind CSS and Bootstrap in my frontend projects, while for backend development, I work with Node.js, Express.js, and MongoDB. I frequently utilize nodemailer and multer in most of my backend projects. I'm enthusiastic about exploring new frameworks and strive to incorporate them into my work whenever possible.
 
 
 
@@ -42,9 +42,9 @@ Let's super-charge your business today!
 ---skills_header
 title: I'm Specialized in
 list:
-  - Front-End Design
+  - FrontEnd Development
   - Back-End Development
-  - Modern Frameworks
+  - Application Developt
 ---
 
 
@@ -53,23 +53,23 @@ list:
 title: Back-End Development
 list:
   - title: Node.js
-    level: 1
+    level: 4
     icon:
       src: /icons/nodedotjs.svg
-  - title: Prisma
+  - title: Express
     level: 3
     icon:
       src: /icons/prisma.svg
-  - title: Svelte
+  - title: MongoDB
     level: 4
     icon:
       src: /icons/svelte.svg
-  - title: HTML5
-    level: 5
+  - title: PostMan
+    level: 4
     icon:
       src: /icons/html5.svg
   - title: Solidity
-    level: 2
+    level: 1
     icon:
       src: /icons/solidity.svg
 ---
@@ -94,15 +94,15 @@ list:
     level: 4
     icon:
       src: /icons/redux.svg
-  - title: GraphQL
+  - title: Next js
     level: 2
     icon:
       src: /icons/graphql.svg
-  - title: Node.js
+  - title: Bootstrap
     level: 4
     icon:
       src: /icons/nodedotjs.svg
-  - title: Prisma
+  - title: Tailwind 
     level: 5
     icon:
       src: /icons/prisma.svg
@@ -113,15 +113,16 @@ list:
 ---history[0]
 title: Employment
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
-    date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: Foxledger
+    description: Full Stack Developer
+    date: Nov 2022 - Jan 2023
+  - name: Hospito || Flabs
+    description: Full Stack Developer 
+    date: July 2022 - Oct 2022
+  - name: Trading Sathi
+    description: Front-End Developer
+    date: sep 2021 - Dec 2021
+  
 ---
 
 
@@ -129,13 +130,13 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: Indian Institute of Technology
+    description: Bachelors in Architecture
+    date: 2020-present
+  - name: Prahalad Roy Tickmani Saraswati Inter College
+    description: Intermediate || 12
+    date: 2017-2019
+  - name: Prahalad Roy Tickmani Saraswati Inter College
+    description: Metriculate || 10
+    date: 2015-2017
 ---

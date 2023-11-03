@@ -1,23 +1,24 @@
 ---
 layout: Post
-title: Agency website design for devops company
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot.
+title: Himalayan Explorer Website 
+description: This application is designed for businesses that organize trekking adventures for individuals interested in exploring the hills. It allows users to book treks, share blogs about recent news in hill areas, and includes a verification process for both users and administrators.
 date: '2022-11-21'
 tags:
-  - next-js
-  - mdx
+  - Node-Js
+  - NodeMailer
   - react
 logo:
   src: /icons/logo-1.svg
   alt: Company X
 images:
-  - src: /projects/project-1.png
+  - src: /projects/Himalayan_pc.png
     alt: image alt text
     overlay:
-      src: /projects/project-1-mobile.png
+      src: /projects/Himalayan_app.png
       alt: overlay image
-  - src: /projects/project-2.png
+  - src: /projects/Himalayan-2.png
     alt: image alt text
+ 
 attributes:
   - label: Duration
     value: 3 Months
@@ -25,33 +26,33 @@ attributes:
     value: GraphQL Database
 ---
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+This application is designed for businesses that organize trekking adventures for individuals interested in exploring the hills. It allows users to book treks, share blogs about recent news in hill areas, and includes a verification process for both users and administrators.
 
-### Paragraphs
+### Description
 
-To create paragraphs, use a blank line to separate one or more lines of text like this:
+The Himalayan Hill website is a comprehensive online platform dedicated to all things Himalayas. Our website serves as your ultimate gateway to the mesmerizing world of the Himalayan mountain range. Whether you're a traveler seeking adventure, a nature enthusiast, a culture aficionado, or simply curious about this stunning region, we've got you covered.
 
-First paragraph. I really like using Markdown.
+Travel Guides: Discover in-depth travel guides to various Himalayan destinations, complete with recommendations on places to visit, things to do, and where to stay. From popular tourist spots to hidden gems, we provide insights for all kinds of travelers.
 
-Second paragraph. *Italic*, **bold**, ~~strikethrough~~, Emoji 😂 ⛺, and `monospace`. I think I'll use it to format all of my documents from now on.
+Adventure Opportunities: If you're an adrenaline junkie looking for trekking, mountaineering, or other outdoor adventures, we offer information on thrilling activities and the best seasons to experience them.
 
 ---
 
-### Headings
+### About Our Project
 
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (`<h3>`), use three number signs (e.g., `### My Header`).
+Cultural Insights: Dive into the rich culture and heritage of the Himalayas. Learn about the traditions, festivals, and the warm-hearted people who call these mountains their home.
 
-# Heading level 1
+### Travel Guides:
 
-## Heading level 2
+#### Photography Galleries
 
-### Heading level 3
+#### Community Forum
 
-#### Heading level 4
+#### News and Updates
 
-##### Heading level 5
+#### Flora and Fauna
 
-###### Heading level 6
+#### Resources for Planning
 
 ---
 

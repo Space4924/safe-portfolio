@@ -19,73 +19,70 @@ seo:
 ###### Solving problems
 
 I design products that are more than pretty. I make them shippable and usable.
-Et tempor non mollit dolor et do aute voluptate ea ullamco.
+I am currently focused on problem-solving and actively engaged in a freelance project.
 
 ###### What you can expect
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Frontend Development
+- Backend Development
+- Problem Solving Strategies
 
 ###### Applications I'm fluent in
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Software Development
+- Full Stack Product Development
 
 <Sep size="12" />
 
 <Button href="/contact" variant="white" size="sm">
-  Get Free Price Quote
+  Obtain a complimentary price estimate.
 </Button>
 
 
 
 ---services[0]
-title: Web and Mobile App Design
+title: Web and Mobile App Development
 icon:
   src: /icons/mobile-app.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  Enhance your online presence by creating a website for your store. Showcase your business to a global audience and work with us to share your work with the world, making it easily accessible to everyone.
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Full Stack Design</strong>
+    - <strong>Web and APP Development</strong>
+    - <strong>Maintaining the website</strong>
 
 </small>
 
 
 
 ---services[1]
-title: Project Strategy & Development
+title: DevOps Engineering
 icon:
   src: /icons/prisma.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  Deploying your website and managing high traffic efficiently, including load balancing, database management, and ensuring data security.
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design </strong>
-    - <strong>Front-end Development</strong>
+    - <strong>High Traffic Balancing</strong>
+    - <strong>Data base Management </strong>
+    - <strong>Data Securing</strong>
 
 </small>
 
 
 
 ---services[2]
-title: UI/UX Design & Optimization
+title: Market Strategies for the Business
 icon:
   src: /icons/dashboard.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+     
+Implementing effective strategies that foster business growth, enhance customer satisfaction, and contribute to the overall development and success of your enterprise.
 
     - <strong>Design Strategy</strong>
     - <strong>Web and Mobile App Design</strong>
@@ -95,14 +92,13 @@ icon:
 
 
 ---services[3]
-title: Application Audit & Debugging
+title: Full Stack Product Development
 icon:
   src: /icons/audit.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+ We offer end-to-end product solutions, covering everything from design and development to deployment and the essential strategies required to nurture the growth of your startup or any product. 
 
   - <strong>Design Strategy </strong>
   - <strong>Web and Mobile App Design </strong>

@@ -30,8 +30,8 @@ const HeroPhoto = ({ main }) =>
       </Reveal>
       <Image
         src={main.images[1].src}
-        width={main.images[1].width}
-        height={main.images[1].height}
+        width={800}
+        height={800}
         alt={main.images[1].alt}
         animation="fade-in slide-in-top"
         className="mx-auto"

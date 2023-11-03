@@ -2,7 +2,7 @@
 layout: Projects
 seo:
   title: Web Development Projects
-  description: Custom description for this page goes here
+  description: description
 ---
 
 ---github
@@ -13,10 +13,10 @@ repositories:
 ---
 
 <PageTitle>
-  ### My Open-Source Projects
+  ### My Development Projects
 </PageTitle>
 
-Discover my most popular open-source projects on Github.
+Discover my most popular Development projects on Github.
 
 
 

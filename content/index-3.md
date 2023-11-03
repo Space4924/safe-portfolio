@@ -6,9 +6,9 @@ seo:
 ---
 
 ---main
-name: Amelia Miller
+name: Bhoopendra Singh
 images:
-  - src: /hero.jpg
+  - src: /hero-3.jpg
     alt: my photo
   - src: /hero-3.png
     alt: my photo
@@ -18,8 +18,7 @@ images:
 
 <Sep size={6} />
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
+Hi , This is Bhoopendra Thakur currently doing my Bachelors from Indian Institute of technology Roorkee 
 their shaven reverences, whether the author, who stands by in
 perplexity at the foot of his epistle, shall to the press or to the
 sponge.
@@ -27,9 +26,9 @@ sponge.
 
 
 ---achievements
-- number: 6+
+- number: 2+
   text: Years of experience
-- number: 60+
+- number: 20+
   text: Projects Completed
 - number: 12
   text: OpenSource Libraries
@@ -56,12 +55,8 @@ list:
   - name: Company 2
     icon:
       src: /icons/logo-3.svg
-  - name: Company 3
-    icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
-    icon:
-      src: /icons/logo-4.svg
+ 
+ 
 ---
 
 

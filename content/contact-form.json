@@ -5,18 +5,12 @@
     "fields": [
       {
         "type": "text",
-        "name": "first-name",
-        "placeholder": "First name",
+        "name": "Your Name",
+        "placeholder": "Your Name",
         "autoComplete": "given-name",
         "required": true
       },
-      {
-        "type": "text",
-        "name": "last-name",
-        "placeholder": "Last name",
-        "autoComplete": "family-name",
-        "required": true
-      },
+      
       {
         "type": "text",
         "name": "email",
@@ -25,18 +19,21 @@
         "inputType": "email",
         "required": true
       },
-      {
-        "type": "text",
-        "name": "company",
-        "placeholder": "Company Name",
-        "autoComplete": "company"
-      },
+      
       {
         "type": "text",
         "name": "phone",
         "placeholder": "Phone Number",
         "autoComplete": "phone"
       },
+      {
+        "type": "text",
+        "name": "From",
+        "placeholder": "From",
+        "autoComplete": "address",
+        "required": true
+      },
+    
       {
         "type": "select",
         "name": "country",
@@ -49,20 +46,12 @@
             "disabled": true
           },
           {
+            "label": "India",
+            "value": "India"
+          },
+          {
             "label": "United States",
-            "value": "United States"
-          },
-          {
-            "label": "Canada",
-            "value": "Canada"
-          },
-          {
-            "label": "Germany",
-            "value": "Germany"
-          },
-          {
-            "label": "France",
-            "value": "France"
+            "value": "US"
           }
         ]
       }
@@ -84,24 +73,10 @@
       },
       {
         "type": "checkbox",
-        "name": "project-type[Design System]",
-        "label": "Design System"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[Website Migration]",
-        "label": "Website Migration"
-      },
-      {
-        "type": "checkbox",
         "name": "project-type[E-commerce Site]",
         "label": "E-commerce Site"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[Performance Evaluation]",
-        "label": "Performance Evaluation"
       }
+      
     ]
   },
   {

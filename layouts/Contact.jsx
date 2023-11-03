@@ -11,6 +11,8 @@ import FormRadio from '@/components/FormRadio'
 import Button from '@/components/Button'
 import { SlCheck } from 'react-icons/sl'
 import { config } from '../theme.config'
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const { inputs } = config.contactForm || {}
 
@@ -76,6 +78,15 @@ const Contact01 = ({ main = {} }) => {
       clearErrors('service')
     }
   }, [isValidating, errors.service, clearErrors])
+  // const SubmittedResponse=()=>{
+  //   console.log("submitted")
+  //  alert("Your response has been submitted. Feel free to direct message me whenever you're ready, and I'll be here to assist you as soon as possible.")
+  // }
+  const showToastMessage = () => {
+        toast.success('Success Notification !', {
+            position: toast.POSITION.TOP_CENTER
+        });
+    };
 
   return (
     <div className="my-auto p-3 md:p-6 lg:p-12">
@@ -91,7 +102,7 @@ const Contact01 = ({ main = {} }) => {
           className="md:with-back-plate max-w-3xl border border-omega-700 md:before:bg-omega-700"
         >
           <FormProvider {...methods}>
-            <form onSubmit={handleSubmit(onSubmit)}>
+            <form >
               <div className="relative overflow-hidden shadow">
                 {isSubmitSuccessful && <SuccessMessage />}
                 <div className="bg-gradient-omega-900">
@@ -119,16 +130,17 @@ const Contact01 = ({ main = {} }) => {
                   ))}
                 </div>
                 <div className="bg-omega-900 px-4 pt-6 pb-8 text-left md:px-8">
-                  <ErrorMessage errors={errors} name="service" />
+                  {/* <ErrorMessage errors={errors} name="service" /> */}
                   <Button
                     as="button"
                     type="submit"
                     size="sm"
                     className="w-full sm:w-1/3"
-                    disabled={isSubmitting}
+                    onClick={showToastMessage}
                   >
                     Submit
                   </Button>
+                  <ToastContainer />
                 </div>
               </div>
             </form>
